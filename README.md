@@ -56,6 +56,8 @@ plt.show()
 ```
 ### Output Waveform:
 ![image](https://github.com/user-attachments/assets/62857210-2d6f-4be8-8b23-7cc1016f4c50)
+![2e95dd26-663c-437c-8bd6-7149eea4e923](https://github.com/user-attachments/assets/6b9a7f65-d423-4aec-a075-68bd3bd461ef)
+
 
 # Results:
 Phase-shift keying (PSK) will be displayed in separate plots. Thus implemented using python colab.
